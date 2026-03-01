@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">YourSQL</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_tables">Tables</string>
+    <string name="nav_query">Query</string>
+    <string name="nav_schema">Schema</string>
+    <string name="nav_logs">Logs</string>
+    <string name="nav_auth">Auth</string>
+    <string name="nav_storage">Storage</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Server Status -->
+    <string name="server_running">Server Running</string>
+    <string name="server_stopped">Server Stopped</string>
+    <string name="server_start">Start Server</string>
+    <string name="server_stop">Stop Server</string>
+    <string name="server_port">Port</string>
+    <string name="server_address">Address</string>
+    <string name="server_uptime">Uptime</string>
+    <string name="server_requests">Requests</string>
+
+    <!-- Database -->
+    <string name="database_create">Create Database</string>
+    <string name="database_delete">Delete Database</string>
+    <string name="database_select">Select Database</string>
+    <string name="database_name">Database Name</string>
+    <string name="database_import">Import Database</string>
+    <string name="database_export">Export Database</string>
+
+    <!-- Tables -->
+    <string name="table_create">Create Table</string>
+    <string name="table_delete">Delete Table</string>
+    <string name="table_rename">Rename Table</string>
+    <string name="table_name">Table Name</string>
+    <string name="table_columns">Columns</string>
+    <string name="table_rows">Rows</string>
+    <string name="table_add_column">Add Column</string>
+    <string name="table_drop_column">Drop Column</string>
+
+    <!-- Query -->
+    <string name="query_run">Run Query</string>
+    <string name="query_clear">Clear</string>
+    <string name="query_history">History</string>
+    <string name="query_results">Results</string>
+    <string name="query_rows_affected">Rows affected</string>
+    <string name="query_execution_time">Execution time</string>
+
+    <!-- API Keys -->
+    <string name="api_key_create">Create API Key</string>
+    <string name="api_key_revoke">Revoke</string>
+    <string name="api_key_copy">Copy</string>
+    <string name="api_key_name">Key Name</string>
+    <string name="api_key_scope">Scope</string>
+    <string name="api_key_anon">Anonymous Key</string>
+
+    <!-- Storage -->
+    <string name="storage_bucket_create">Create Bucket</string>
+    <string name="storage_bucket_delete">Delete Bucket</string>
+    <string name="storage_upload">Upload File</string>
+    <string name="storage_download">Download</string>
+    <string name="storage_quota">Storage Quota</string>
+
+    <!-- Settings -->
+    <string name="settings_server">Server Settings</string>
+    <string name="settings_security">Security</string>
+    <string name="settings_backup">Backup</string>
+    <string name="settings_tunnel">Tunnel</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_port">Server Port</string>
+    <string name="settings_https">Enable HTTPS</string>
+    <string name="settings_rate_limit">Rate Limit</string>
+    <string name="settings_ip_allowlist">IP Allowlist</string>
+
+    <!-- Actions -->
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_share">Share</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_search">Search</string>
+    <string name="action_filter">Filter</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_server">Server Status</string>
+    <string name="notification_server_running">YourSQL server is running</string>
+    <string name="notification_server_tap">Tap to open dashboard</string>
+
+    <!-- Errors -->
+    <string name="error_generic">An error occurred</string>
+    <string name="error_connection">Connection error</string>
+    <string name="error_permission">Permission denied</string>
+    <string name="error_invalid_input">Invalid input</string>
+    <string name="error_port_in_use">Port already in use</string>
+
+    <!-- Warnings -->
+    <string name="warning_public_exposure">Warning: Server is publicly exposed</string>
+    <string name="warning_no_auth">No authentication enabled</string>
+    <string name="warning_battery_optimization">Battery optimization may stop the server</string>
+</resources>
